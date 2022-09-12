@@ -1,1 +1,1 @@
-a readme for a folder to learn and practice javascript
+a eadme for the first js project (warm up)
